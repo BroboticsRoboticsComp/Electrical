@@ -12,4 +12,3 @@
 
 ~ LM324 Op Amp
 
-~ 7493 Counter IC
