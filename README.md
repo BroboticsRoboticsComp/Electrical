@@ -12,3 +12,8 @@
 
 ~ LM324 Op Amp
 
+~ 8x 10kΩ resistors
+
+~ 10x 20kΩ resistors
+
+~ 2W, 8Ω speaker
