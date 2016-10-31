@@ -17,3 +17,9 @@
 ~ 10x 20kΩ resistors
 
 ~ 2W, 8Ω speaker
+
+### Things included in this section
+
+~ Schematic of the electrical circuit
+
+~ DAC pins on Teensy
