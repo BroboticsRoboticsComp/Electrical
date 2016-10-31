@@ -22,4 +22,4 @@
 
 ~ Schematic of the electrical circuit
 
-~ DAC pins on Teensy
+~ DAC pins on Teensy-LC
