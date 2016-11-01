@@ -23,3 +23,9 @@
 ~ Schematic of the electrical circuit
 
 ~ DAC pins on Teensy-LC
+
+~ Current Balance
+
+### Schematic
+
+![](https://raw.githubusercontent.com/BroboticsRoboticsComp/Electrical/master/Schematic%202.0.PNG)
