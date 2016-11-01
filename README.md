@@ -26,6 +26,12 @@
 
 ~ Current Balance
 
+### Improvement that could be made
+
+~ Amplifier
+
+~ Low Pass Filter
+
 ### Schematic
 
 ![](https://raw.githubusercontent.com/BroboticsRoboticsComp/Electrical/master/Schematic%202.0.PNG)
