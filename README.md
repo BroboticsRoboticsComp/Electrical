@@ -16,7 +16,11 @@
 
 ~ 10x 20kΩ resistors
 
-~ 2W, 8Ω speaker
+~ 2x 2W, 8Ω speaker
+
+~ 5V regulator
+
+~ Capacitor
 
 ### Things included in this section
 
